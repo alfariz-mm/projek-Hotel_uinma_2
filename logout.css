@@ -1,0 +1,11 @@
+.nav-link.logout {
+    background-color: #ffff;
+    /* Warna background */
+    color: #ffff;
+ }
+
+ .nav-link.logout:hover {
+    background-color: #C4E4FF;
+    /* Warna background */
+    color: #ffff;
+ }
